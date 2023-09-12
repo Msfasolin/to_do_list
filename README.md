@@ -18,7 +18,7 @@ Evento exclusivo e gratuito, promovido pela Msfasolin para ensino de tecnologias
 <br>
 
 <p align="center">
-  <img alt="projeto TO DO LIST" src="preview.png" width="85%">
+  <img alt="projeto TO DO LIST" src="preview.png" width="65%">
 </p>
 
 ## 🚀 Tecnologias
